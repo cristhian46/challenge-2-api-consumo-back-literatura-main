@@ -56,7 +56,3 @@ Desarrollo basado en los criterios del Challengs 2 Alura Consumo de api Gutendex
 |SPRINGBOOT       | 3.1.5       | Lenguaje para la logica y consumo api. |
 
 
-## 🤝 Redes sociales 🤝
-
--  GitHub: https://github.com/Johanlex20 
--  LinkedIn: https://www.linkedin.com/in/johanlex20/
